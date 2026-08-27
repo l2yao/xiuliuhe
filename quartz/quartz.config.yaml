@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: <owner>.github.io/xiuliuhe
+  baseUrl: l2yao.github.io/xiuliuhe
   ignorePatterns:
     - private
     - templates
@@ -168,7 +168,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/<owner>/xiuliuhe
+        GitHub: https://github.com/l2yao/xiuliuhe
     layout:
       position: footer
       priority: 50

@@ -109,7 +109,7 @@ def build_page(album, category, topic, dry_run=False):
     for idx, ep in enumerate(sorted(album["episodes"], key=lambda e: e.get("episode") or e.get("num") or "")):
         num = ep.get("num") or ep.get("video") or ep.get("audio") or f"ep{idx+1}"
         ep_file = urllib.parse.quote(f"{raw}{num}.md", safe="/")
-        md_link = f"https://github.com/<owner>/xiuliuhe/blob/main/{ep_file}"
+        md_link = f"https://github.com/l2yao/xiuliuhe/blob/main/{ep_file}"
         # text link (md only; no doc download for xiuliuhe)
         text_cell = f"[md]({md_link})"
         # media cell - both mp4 and mp3 + hls + poster
@@ -178,7 +178,7 @@ updated: 2026-08-27
     body += f"""
 ## 原始资料与影音
 
-原始资料夹：[GitHub](https://github.com/<owner>/xiuliuhe/tree/main/{enc_raw})（逐集 `md`）
+原始资料夹：[GitHub](https://github.com/l2yao/xiuliuhe/tree/main/{enc_raw})（逐集 `md`）
 
 | 集数 | 档名 | 文字 | 影音 |
 |---|---|---|---|

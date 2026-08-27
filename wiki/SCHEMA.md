@@ -109,11 +109,11 @@ updated: 2026-08-27
 
 ## 原始资料与影音
 
-原始资料夹：[GitHub](https://github.com/<owner>/xiuliuhe/tree/main/doc/影音/专题讲演/智海拾零)（逐集 `md`）
+原始资料夹：[GitHub](https://github.com/l2yao/xiuliuhe/tree/main/doc/影音/专题讲演/智海拾零)（逐集 `md`）
 
 | 集数 | 档名 | 文字 | 影音 |
 |---|---|---|---|
-| 1 | PC-046-0001 | [md](https://github.com/<owner>/xiuliuhe/blob/main/doc/影音/专题讲演/智海拾零/PC-046-0001.md) | [mp4](https://s.liuhejing.cc/mp4/PC/PC-046/PC-046-0001.mp4) · [mp3](https://s.liuhejing.cc/mp3/PC/PC-046/PC-046-0001.mp3) · [m3u8](https://s.liuhejing.cc/m3u8/PC/PC-046/PC-046-0001/PC-046-0001.m3u8) |
+| 1 | PC-046-0001 | [md](https://github.com/l2yao/xiuliuhe/blob/main/doc/影音/专题讲演/智海拾零/PC-046-0001.md) | [mp4](https://s.liuhejing.cc/mp4/PC/PC-046/PC-046-0001.mp4) · [mp3](https://s.liuhejing.cc/mp3/PC/PC-046/PC-046-0001.mp3) · [m3u8](https://s.liuhejing.cc/m3u8/PC/PC-046/PC-046-0001/PC-046-0001.m3u8) |
 
 > 每集皆须列入；集数多时亦须全列，不得省略。文字与影音链接依该集 `media` frontmatter 取用，永不臆测。URL 一律经 `wiki/tools/api_client.py` 的 `get_video_mp4_url` / `get_audio_mp3_url` / `get_video_hls_url` / `get_poster_url` 产生，不得手拼。
 ```
@@ -182,7 +182,7 @@ updated: 2026-08-27
 - 档名：类别/主题/概念/相簿用中文名（如 `智海拾零.md`）；`NUM` 代码只用于 `doc/` 之下。档名不含空格。
 - 内部链接：`[[页面名]]`；开示页链接相簿标题 `[[智海拾零]]`；概念页用 `[[概念/念佛]]`。
 - 引用：`〔PC-034〕` 引用整个系列，`〔PC-046-0001〕` 引用特定一集（系列前缀 = `num` 首两段）。
-- 开示页需附 `## 原始资料与影音` 区段：原始资料夹的 GitHub 链接（`https://github.com/<owner>/xiuliuhe/tree/main/doc/影音/<路径>`）、每集 `md` 的 GitHub blob（`https://github.com/<owner>/xiuliuhe/blob/main/doc/影音/<路径>/<NUM>.md`），以及官方影音链接（经 `get_video_mp4_url` 等产生）。中文路径在 URL 中须以 UTF-8 百分比编码。
+- 开示页需附 `## 原始资料与影音` 区段：原始资料夹的 GitHub 链接（`https://github.com/l2yao/xiuliuhe/tree/main/doc/影音/<路径>`）、每集 `md` 的 GitHub blob（`https://github.com/l2yao/xiuliuhe/blob/main/doc/影音/<路径>/<NUM>.md`），以及官方影音链接（经 `get_video_mp4_url` 等产生）。中文路径在 URL 中须以 UTF-8 百分比编码。
 - 影音 URL 格式（host 为 `https://s.liuhejing.cc/`，`NUM` 拆成 `major`/`minor`=前两段）：
   - mp4：`https://s.liuhejing.cc/mp4/{major}/{major}-{minor}/{NUM}.mp4`
   - mp3：`https://s.liuhejing.cc/mp3/{major}/{major}-{minor}/{NUM}.mp3`
