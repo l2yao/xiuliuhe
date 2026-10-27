@@ -1,6 +1,6 @@
 {
   "source": "https://m.xiuliuhe.org/api/",
-  "generated": "2026-08-27T18:57:47",
+  "generated": "2026-10-27T19:42:09",
   "categories": [
     {
       "id": 1,
@@ -1113,99 +1113,100 @@
       ],
       "albums": [
         {
-          "id": 36,
-          "title": "極樂歸舟",
-          "total": 7,
-          "album_num": "56-154",
-          "cover": "https://m.xiuliuhe.org/static/image/56-154.jpg",
+          "id": 33,
+          "title": "我為淨土鼓與呼",
+          "total": 5,
+          "album_num": "56-137",
+          "cover": "https://m.xiuliuhe.org/static/image/56-137.jpg",
           "author": "劉素雲老師",
           "path": [
             "专题讲演"
           ],
           "episodes": [
             {
-              "id": 215,
-              "title": "極樂歸舟-第1集",
-              "video": "56-154-0001",
+              "id": 203,
+              "title": "我為淨土鼓與呼-第1集",
+              "video": "56-137-0001",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 1,
-              "num": "56-154-0001"
+              "num": "56-137-0001"
             },
             {
-              "id": 216,
-              "title": "極樂歸舟-第2集",
-              "video": "56-154-0002",
+              "id": 204,
+              "title": "我為淨土鼓與呼-第2集",
+              "video": "56-137-0002",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 2,
-              "num": "56-154-0002"
+              "num": "56-137-0002"
             },
             {
-              "id": 217,
-              "title": "極樂歸舟-第3集",
-              "video": "56-154-0003",
+              "id": 205,
+              "title": "我為淨土鼓與呼-第3集",
+              "video": "56-137-0003",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 3,
-              "num": "56-154-0003"
+              "num": "56-137-0003"
             },
             {
-              "id": 218,
-              "title": "極樂歸舟-第4集",
-              "video": "56-154-0004",
+              "id": 206,
+              "title": "我為淨土鼓與呼-第4集",
+              "video": "56-137-0004",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 4,
-              "num": "56-154-0004"
+              "num": "56-137-0004"
             },
             {
-              "id": 219,
-              "title": "極樂歸舟-第5集",
-              "video": "56-154-0005",
+              "id": 207,
+              "title": "我為淨土鼓與呼-第5集",
+              "video": "56-137-0005",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 5,
-              "num": "56-154-0005"
-            },
+              "num": "56-137-0005"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "title": "中华民族任重道远 拯救世界力挽狂澜",
+          "total": 1,
+          "album_num": "PC-047",
+          "cover": "https://m.xiuliuhe.org/static/image/PC-046.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
             {
-              "id": 220,
-              "title": "極樂歸舟-第6集",
-              "video": "56-154-0006",
+              "id": 238,
+              "title": "中华民族任重道远 拯救世界力挽狂澜-全1集",
+              "video": "PC-047-0001",
               "audio": null,
               "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
+              "lecture_time": "2026-10-18",
+              "update_time": 1792252800,
               "author": "刘素云老师",
-              "episode": 6,
-              "num": "56-154-0006"
-            },
-            {
-              "id": 221,
-              "title": "極樂歸舟-第7集",
-              "video": "56-154-0007",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 7,
-              "num": "56-154-0007"
+              "episode": 1,
+              "num": "PC-047-0001"
             }
           ]
         },
@@ -1247,131 +1248,9 @@
           ]
         },
         {
-          "id": 34,
-          "title": "菩提之路",
-          "total": 5,
-          "album_num": "56-148",
-          "cover": "https://m.xiuliuhe.org/static/image/56-148.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 208,
-              "title": "菩提之路-第1集",
-              "video": "56-148-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "56-148-0001"
-            },
-            {
-              "id": 209,
-              "title": "菩提之路-第2集",
-              "video": "56-148-0002",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "56-148-0002"
-            },
-            {
-              "id": 210,
-              "title": "菩提之路-第3集",
-              "video": "56-148-0003",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 3,
-              "num": "56-148-0003"
-            },
-            {
-              "id": 211,
-              "title": "菩提之路-第4集",
-              "video": "56-148-0004",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 4,
-              "num": "56-148-0004"
-            },
-            {
-              "id": 212,
-              "title": "菩提之路-第5集",
-              "video": "56-148-0005",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 5,
-              "num": "56-148-0005"
-            }
-          ]
-        },
-        {
-          "id": 32,
-          "title": "學佛答問",
-          "total": 3,
-          "album_num": "56-126",
-          "cover": "https://m.xiuliuhe.org/static/image/56-126.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 200,
-              "title": "學佛答問-第1集",
-              "video": "56-126-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "56-126-0001"
-            },
-            {
-              "id": 201,
-              "title": "學佛答問-第2集",
-              "video": "56-126-0002",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "56-126-0002"
-            },
-            {
-              "id": 202,
-              "title": "學佛答問-第3集",
-              "video": "56-126-0003",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 3,
-              "num": "56-126-0003"
-            }
-          ]
-        },
-        {
           "id": 37,
           "title": "智海拾零",
-          "total": 11,
+          "total": 17,
           "album_num": "PC-046",
           "cover": "https://m.xiuliuhe.org/static/image/PC-046.jpg",
           "author": "劉素雲老師",
@@ -1522,79 +1401,347 @@
               "author": "刘素云老师",
               "episode": 12,
               "num": "PC-046-0012"
+            },
+            {
+              "id": 234,
+              "title": "智海拾零-第13集",
+              "video": "PC-046-0013",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2026-07-26",
+              "update_time": 1784995200,
+              "author": "刘素云老师",
+              "episode": 13,
+              "num": "PC-046-0013"
+            },
+            {
+              "id": 235,
+              "title": "智海拾零-第14集",
+              "video": "PC-046-0014",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2026-08-28",
+              "update_time": 1787846400,
+              "author": "刘素云老师",
+              "episode": 14,
+              "num": "PC-046-0014"
+            },
+            {
+              "id": 236,
+              "title": "智海拾零-第15集",
+              "video": "PC-046-0015",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2026-09-03",
+              "update_time": 1788364800,
+              "author": "刘素云老师",
+              "episode": 15,
+              "num": "PC-046-0015"
+            },
+            {
+              "id": 237,
+              "title": "智海拾零-第16集",
+              "video": "PC-046-0016",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2026-09-06",
+              "update_time": 1788624000,
+              "author": "刘素云老师",
+              "episode": 16,
+              "num": "PC-046-0016"
+            },
+            {
+              "id": 240,
+              "title": "智海拾零-第17集",
+              "video": "PC-046-0017",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2026-09-10",
+              "update_time": 1788969600,
+              "author": "刘素云老师",
+              "episode": 17,
+              "num": "PC-046-0017"
             }
           ]
         },
         {
-          "id": 33,
-          "title": "我為淨土鼓與呼",
-          "total": 5,
-          "album_num": "56-137",
-          "cover": "https://m.xiuliuhe.org/static/image/56-137.jpg",
+          "id": 36,
+          "title": "極樂歸舟",
+          "total": 7,
+          "album_num": "56-154",
+          "cover": "https://m.xiuliuhe.org/static/image/56-154.jpg",
           "author": "劉素雲老師",
           "path": [
             "专题讲演"
           ],
           "episodes": [
             {
-              "id": 203,
-              "title": "我為淨土鼓與呼-第1集",
-              "video": "56-137-0001",
+              "id": 215,
+              "title": "極樂歸舟-第1集",
+              "video": "56-154-0001",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 1,
-              "num": "56-137-0001"
+              "num": "56-154-0001"
             },
             {
-              "id": 204,
-              "title": "我為淨土鼓與呼-第2集",
-              "video": "56-137-0002",
+              "id": 216,
+              "title": "極樂歸舟-第2集",
+              "video": "56-154-0002",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 2,
-              "num": "56-137-0002"
+              "num": "56-154-0002"
             },
             {
-              "id": 205,
-              "title": "我為淨土鼓與呼-第3集",
-              "video": "56-137-0003",
+              "id": 217,
+              "title": "極樂歸舟-第3集",
+              "video": "56-154-0003",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 3,
-              "num": "56-137-0003"
+              "num": "56-154-0003"
             },
             {
-              "id": 206,
-              "title": "我為淨土鼓與呼-第4集",
-              "video": "56-137-0004",
+              "id": 218,
+              "title": "極樂歸舟-第4集",
+              "video": "56-154-0004",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 4,
-              "num": "56-137-0004"
+              "num": "56-154-0004"
             },
             {
-              "id": 207,
-              "title": "我為淨土鼓與呼-第5集",
-              "video": "56-137-0005",
+              "id": 219,
+              "title": "極樂歸舟-第5集",
+              "video": "56-154-0005",
               "audio": null,
               "cover": null,
               "lecture_time": "2025-11-22",
               "update_time": 1763740800,
               "author": "刘素云老师",
               "episode": 5,
-              "num": "56-137-0005"
+              "num": "56-154-0005"
+            },
+            {
+              "id": 220,
+              "title": "極樂歸舟-第6集",
+              "video": "56-154-0006",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 6,
+              "num": "56-154-0006"
+            },
+            {
+              "id": 221,
+              "title": "極樂歸舟-第7集",
+              "video": "56-154-0007",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 7,
+              "num": "56-154-0007"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "title": "菩提之路",
+          "total": 5,
+          "album_num": "56-148",
+          "cover": "https://m.xiuliuhe.org/static/image/56-148.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 208,
+              "title": "菩提之路-第1集",
+              "video": "56-148-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "56-148-0001"
+            },
+            {
+              "id": 209,
+              "title": "菩提之路-第2集",
+              "video": "56-148-0002",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "56-148-0002"
+            },
+            {
+              "id": 210,
+              "title": "菩提之路-第3集",
+              "video": "56-148-0003",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 3,
+              "num": "56-148-0003"
+            },
+            {
+              "id": 211,
+              "title": "菩提之路-第4集",
+              "video": "56-148-0004",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 4,
+              "num": "56-148-0004"
+            },
+            {
+              "id": 212,
+              "title": "菩提之路-第5集",
+              "video": "56-148-0005",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 5,
+              "num": "56-148-0005"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "title": "學佛答問",
+          "total": 3,
+          "album_num": "56-126",
+          "cover": "https://m.xiuliuhe.org/static/image/56-126.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 200,
+              "title": "學佛答問-第1集",
+              "video": "56-126-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "56-126-0001"
+            },
+            {
+              "id": 201,
+              "title": "學佛答問-第2集",
+              "video": "56-126-0002",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "56-126-0002"
+            },
+            {
+              "id": 202,
+              "title": "學佛答問-第3集",
+              "video": "56-126-0003",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 3,
+              "num": "56-126-0003"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "title": "學佛人的樣子",
+          "total": 1,
+          "album_num": "52-456",
+          "cover": "https://m.xiuliuhe.org/static/image/52-456.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 186,
+              "title": "學佛人的樣子-全1集",
+              "video": "52-456-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "52-456-0001"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "title": "劉老師答問",
+          "total": 2,
+          "album_num": "52-458",
+          "cover": "https://m.xiuliuhe.org/static/image/52-458.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 189,
+              "title": "劉老師答問-第1集",
+              "video": "52-458-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "52-458-0001"
+            },
+            {
+              "id": 190,
+              "title": "劉老師答問-第2集",
+              "video": "52-458-0002",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "52-458-0002"
             }
           ]
         },
@@ -1645,43 +1792,6 @@
               "author": "刘素云老师",
               "episode": 1,
               "num": "56-099-0001"
-            }
-          ]
-        },
-        {
-          "id": 29,
-          "title": "劉老師答問",
-          "total": 2,
-          "album_num": "52-458",
-          "cover": "https://m.xiuliuhe.org/static/image/52-458.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 189,
-              "title": "劉老師答問-第1集",
-              "video": "52-458-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "52-458-0001"
-            },
-            {
-              "id": 190,
-              "title": "劉老師答問-第2集",
-              "video": "52-458-0002",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "52-458-0002"
             }
           ]
         },
@@ -1807,31 +1917,6 @@
           ]
         },
         {
-          "id": 27,
-          "title": "學佛人的樣子",
-          "total": 1,
-          "album_num": "52-456",
-          "cover": "https://m.xiuliuhe.org/static/image/52-456.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 186,
-              "title": "學佛人的樣子-全1集",
-              "video": "52-456-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "52-456-0001"
-            }
-          ]
-        },
-        {
           "id": 26,
           "title": "走出學佛誤區 開啟智慧之門",
           "total": 1,
@@ -1857,31 +1942,6 @@
           ]
         },
         {
-          "id": 23,
-          "title": "和諧家庭",
-          "total": 1,
-          "album_num": "52-445",
-          "cover": "https://m.xiuliuhe.org/static/image/52-445.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 182,
-              "title": "和諧家庭-全1集",
-              "video": "52-445-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "52-445-0001"
-            }
-          ]
-        },
-        {
           "id": 24,
           "title": "我們該做些什麼",
           "total": 1,
@@ -1903,6 +1963,56 @@
               "author": "刘素云老师",
               "episode": 1,
               "num": "52-446-0001"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "title": "善待眾生就是善待自己",
+          "total": 1,
+          "album_num": "52-452",
+          "cover": "https://m.xiuliuhe.org/static/image/52-452.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 184,
+              "title": "善待眾生就是善待自己-全1集",
+              "video": "52-452-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "52-452-0001"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "title": "和諧家庭",
+          "total": 1,
+          "album_num": "52-445",
+          "cover": "https://m.xiuliuhe.org/static/image/52-445.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 182,
+              "title": "和諧家庭-全1集",
+              "video": "52-445-0001",
+              "audio": null,
+              "cover": null,
+              "lecture_time": "2025-11-22",
+              "update_time": 1763740800,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "52-445-0001"
             }
           ]
         },
@@ -2004,31 +2114,6 @@
           ]
         },
         {
-          "id": 25,
-          "title": "善待眾生就是善待自己",
-          "total": 1,
-          "album_num": "52-452",
-          "cover": "https://m.xiuliuhe.org/static/image/52-452.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 184,
-              "title": "善待眾生就是善待自己-全1集",
-              "video": "52-452-0001",
-              "audio": null,
-              "cover": null,
-              "lecture_time": "2025-11-22",
-              "update_time": 1763740800,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "52-452-0001"
-            }
-          ]
-        },
-        {
           "id": 22,
           "title": "淨土大經解演義學習心得",
           "total": 1,
@@ -2115,27 +2200,27 @@
           ]
         },
         {
-          "id": 19,
-          "title": "紀念恩師圓寂三週年",
+          "id": 18,
+          "title": "師父我聽懂了",
           "total": 1,
-          "album_num": "PC-040",
-          "cover": "https://m.xiuliuhe.org/static/image/PC-040.jpg",
+          "album_num": "PC-039",
+          "cover": "https://m.xiuliuhe.org/static/image/PC-039.jpg",
           "author": "劉素雲老師",
           "path": [
             "专题讲演"
           ],
           "episodes": [
             {
-              "id": 169,
-              "title": "紀念恩師圓寂三週年-第1集",
-              "video": "PC-040-0001",
+              "id": 168,
+              "title": "師父我聽懂了-第1集",
+              "video": "PC-039-0001",
               "audio": "",
               "cover": "",
-              "lecture_time": "2025-07-22",
-              "update_time": 1753137829,
+              "lecture_time": "2025-03-22",
+              "update_time": 1752283345,
               "author": "刘素云老师",
               "episode": 1,
-              "num": "PC-040-0001"
+              "num": "PC-039-0001"
             }
           ]
         },
@@ -2165,27 +2250,52 @@
           ]
         },
         {
-          "id": 18,
-          "title": "師父我聽懂了",
+          "id": 19,
+          "title": "紀念恩師圓寂三週年",
           "total": 1,
-          "album_num": "PC-039",
-          "cover": "https://m.xiuliuhe.org/static/image/PC-039.jpg",
+          "album_num": "PC-040",
+          "cover": "https://m.xiuliuhe.org/static/image/PC-040.jpg",
           "author": "劉素雲老師",
           "path": [
             "专题讲演"
           ],
           "episodes": [
             {
-              "id": 168,
-              "title": "師父我聽懂了-第1集",
-              "video": "PC-039-0001",
+              "id": 169,
+              "title": "紀念恩師圓寂三週年-第1集",
+              "video": "PC-040-0001",
               "audio": "",
               "cover": "",
-              "lecture_time": "2025-03-22",
-              "update_time": 1752283345,
+              "lecture_time": "2025-07-22",
+              "update_time": 1753137829,
               "author": "刘素云老师",
               "episode": 1,
-              "num": "PC-039-0001"
+              "num": "PC-040-0001"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "title": "聖哲 應運而生",
+          "total": 1,
+          "album_num": "PC-038",
+          "cover": "https://m.xiuliuhe.org/static/image/PC-038.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 167,
+              "title": "聖哲 應運而生-第1集",
+              "video": "PC-038-0001",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2025-02-08",
+              "update_time": 1741867926,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "PC-038-0001"
             }
           ]
         },
@@ -2272,93 +2382,6 @@
               "author": "刘素云老师",
               "episode": 1,
               "num": "PC-035-0001"
-            }
-          ]
-        },
-        {
-          "id": 17,
-          "title": "聖哲 應運而生",
-          "total": 1,
-          "album_num": "PC-038",
-          "cover": "https://m.xiuliuhe.org/static/image/PC-038.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 167,
-              "title": "聖哲 應運而生-第1集",
-              "video": "PC-038-0001",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2025-02-08",
-              "update_time": 1741867926,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "PC-038-0001"
-            }
-          ]
-        },
-        {
-          "id": 13,
-          "title": "學釋迦佛 走釋迦路",
-          "total": 2,
-          "album_num": "56-115",
-          "cover": "https://i.yyii.info/uploads/image/video/album/2017/12/07bd943aedb6730705a54fda1dd8277b.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 148,
-              "title": "學釋迦佛 走釋迦路-第1集",
-              "video": "56-115-0001",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "56-115-0001"
-            },
-            {
-              "id": 149,
-              "title": "學釋迦佛 走釋迦路-第2集",
-              "video": "56-115-0002",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "56-115-0002"
-            }
-          ]
-        },
-        {
-          "id": 12,
-          "title": "平凡人生 表非凡大法",
-          "total": 1,
-          "album_num": "PC-030",
-          "cover": "https://i.yyii.info/uploads/image/video/album/20221122/3ea9d64983e961edaaa41dabcc051d6e.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 155,
-              "title": "平凡人生 表非凡大法-全1集",
-              "video": "PC-030-0001",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-03",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "PC-030-0001"
             }
           ]
         },
@@ -2496,212 +2519,6 @@
           ]
         },
         {
-          "id": 10,
-          "title": "覺海之舟",
-          "total": 5,
-          "album_num": "56-124",
-          "cover": "https://i.yyii.info/uploads/image/video/album/2017/12/5666b2caeab50b0adc79f542097674ba.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 150,
-              "title": "覺海之舟-第1集",
-              "video": "56-124-0001",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "56-124-0001"
-            },
-            {
-              "id": 151,
-              "title": "覺海之舟-第2集",
-              "video": "56-124-0002",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "56-124-0002"
-            },
-            {
-              "id": 152,
-              "title": "覺海之舟-第3集",
-              "video": "56-124-0003",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 3,
-              "num": "56-124-0003"
-            },
-            {
-              "id": 153,
-              "title": "覺海之舟-第4集",
-              "video": "56-124-0004",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 4,
-              "num": "56-124-0004"
-            },
-            {
-              "id": 154,
-              "title": "覺海之舟-第5集",
-              "video": "56-124-0005",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 5,
-              "num": "56-124-0005"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "title": "學習恩師好榜樣 感謝恩師教化我",
-          "total": 10,
-          "album_num": "PC-021",
-          "cover": "https://i.yyii.info/uploads/image/video/album/20220716/78c4e50a3ad6fcb45e931abc6747eee4.jpg",
-          "author": "劉素雲老師",
-          "path": [
-            "专题讲演"
-          ],
-          "episodes": [
-            {
-              "id": 109,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第1集",
-              "video": "PC-021-0001",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 1,
-              "num": "PC-021-0001"
-            },
-            {
-              "id": 110,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第2集",
-              "video": "PC-021-0002",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 2,
-              "num": "PC-021-0002"
-            },
-            {
-              "id": 111,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第3集",
-              "video": "PC-021-0003",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 3,
-              "num": "PC-021-0003"
-            },
-            {
-              "id": 112,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第4集",
-              "video": "PC-021-0004",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 4,
-              "num": "PC-021-0004"
-            },
-            {
-              "id": 113,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第5集",
-              "video": "PC-021-0005",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 5,
-              "num": "PC-021-0005"
-            },
-            {
-              "id": 114,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第6集",
-              "video": "PC-021-0006",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 6,
-              "num": "PC-021-0006"
-            },
-            {
-              "id": 115,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第7集",
-              "video": "PC-021-0007",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 7,
-              "num": "PC-021-0007"
-            },
-            {
-              "id": 116,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第8集",
-              "video": "PC-021-0008",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 8,
-              "num": "PC-021-0008"
-            },
-            {
-              "id": 117,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第9集",
-              "video": "PC-021-0009",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 9,
-              "num": "PC-021-0009"
-            },
-            {
-              "id": 118,
-              "title": "學習恩師好榜樣 感謝恩師教化我-第10集",
-              "video": "PC-021-0010",
-              "audio": "",
-              "cover": "",
-              "lecture_time": "2024-08-02",
-              "update_time": 1722599503,
-              "author": "刘素云老师",
-              "episode": 10,
-              "num": "PC-021-0010"
-            }
-          ]
-        },
-        {
           "id": 9,
           "title": "慧海拾貝",
           "total": 9,
@@ -2819,6 +2636,141 @@
               "author": "刘素云老师",
               "episode": 9,
               "num": "56-113-0009"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "覺海之舟",
+          "total": 5,
+          "album_num": "56-124",
+          "cover": "https://i.yyii.info/uploads/image/video/album/2017/12/5666b2caeab50b0adc79f542097674ba.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 150,
+              "title": "覺海之舟-第1集",
+              "video": "56-124-0001",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "56-124-0001"
+            },
+            {
+              "id": 151,
+              "title": "覺海之舟-第2集",
+              "video": "56-124-0002",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "56-124-0002"
+            },
+            {
+              "id": 152,
+              "title": "覺海之舟-第3集",
+              "video": "56-124-0003",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 3,
+              "num": "56-124-0003"
+            },
+            {
+              "id": 153,
+              "title": "覺海之舟-第4集",
+              "video": "56-124-0004",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 4,
+              "num": "56-124-0004"
+            },
+            {
+              "id": 154,
+              "title": "覺海之舟-第5集",
+              "video": "56-124-0005",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 5,
+              "num": "56-124-0005"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "學釋迦佛 走釋迦路",
+          "total": 2,
+          "album_num": "56-115",
+          "cover": "https://i.yyii.info/uploads/image/video/album/2017/12/07bd943aedb6730705a54fda1dd8277b.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 148,
+              "title": "學釋迦佛 走釋迦路-第1集",
+              "video": "56-115-0001",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "56-115-0001"
+            },
+            {
+              "id": 149,
+              "title": "學釋迦佛 走釋迦路-第2集",
+              "video": "56-115-0002",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "56-115-0002"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "平凡人生 表非凡大法",
+          "total": 1,
+          "album_num": "PC-030",
+          "cover": "https://i.yyii.info/uploads/image/video/album/20221122/3ea9d64983e961edaaa41dabcc051d6e.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 155,
+              "title": "平凡人生 表非凡大法-全1集",
+              "video": "PC-030-0001",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-03",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "PC-030-0001"
             }
           ]
         },
@@ -3063,14 +3015,169 @@
               "num": "PC-031-0011"
             }
           ]
+        },
+        {
+          "id": 7,
+          "title": "學習恩師好榜樣 感謝恩師教化我",
+          "total": 10,
+          "album_num": "PC-021",
+          "cover": "https://i.yyii.info/uploads/image/video/album/20220716/78c4e50a3ad6fcb45e931abc6747eee4.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "专题讲演"
+          ],
+          "episodes": [
+            {
+              "id": 109,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第1集",
+              "video": "PC-021-0001",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 1,
+              "num": "PC-021-0001"
+            },
+            {
+              "id": 110,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第2集",
+              "video": "PC-021-0002",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 2,
+              "num": "PC-021-0002"
+            },
+            {
+              "id": 111,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第3集",
+              "video": "PC-021-0003",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 3,
+              "num": "PC-021-0003"
+            },
+            {
+              "id": 112,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第4集",
+              "video": "PC-021-0004",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 4,
+              "num": "PC-021-0004"
+            },
+            {
+              "id": 113,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第5集",
+              "video": "PC-021-0005",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 5,
+              "num": "PC-021-0005"
+            },
+            {
+              "id": 114,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第6集",
+              "video": "PC-021-0006",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 6,
+              "num": "PC-021-0006"
+            },
+            {
+              "id": 115,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第7集",
+              "video": "PC-021-0007",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 7,
+              "num": "PC-021-0007"
+            },
+            {
+              "id": 116,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第8集",
+              "video": "PC-021-0008",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 8,
+              "num": "PC-021-0008"
+            },
+            {
+              "id": 117,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第9集",
+              "video": "PC-021-0009",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 9,
+              "num": "PC-021-0009"
+            },
+            {
+              "id": 118,
+              "title": "學習恩師好榜樣 感謝恩師教化我-第10集",
+              "video": "PC-021-0010",
+              "audio": "",
+              "cover": "",
+              "lecture_time": "2024-08-02",
+              "update_time": 1722599503,
+              "author": "刘素云老师",
+              "episode": 10,
+              "num": "PC-021-0010"
+            }
+          ]
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": 4,
+      "title": "公告",
+      "path": [
+        "公告"
+      ],
+      "albums": [
+        {
+          "id": 39,
+          "title": "公告",
+          "total": 1,
+          "album_num": "",
+          "cover": "https://api-tn.ciguang.cc/static/liulaoshi/image/Zen-Buddhist-Book-Series-with-Lotuses.jpg",
+          "author": "劉素雲老師",
+          "path": [
+            "公告"
+          ],
+          "episodes": []
         }
       ],
       "children": []
     }
   ],
   "stats": {
-    "categories": 2,
-    "albums": 33,
-    "episodes": 218
+    "categories": 3,
+    "albums": 35,
+    "episodes": 224
   }
 }
